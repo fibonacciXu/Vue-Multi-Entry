@@ -2,6 +2,7 @@
 
 > Multi entry vue demo
 
+```
 multi-entry-vue
 ├── build
 │   ├── build.js
@@ -55,6 +56,7 @@ multi-entry-vue
 ├── README.md
 ├── index.html
 └── package.json
+```
 
 ## Build Setup
 
